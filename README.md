@@ -26,3 +26,5 @@ This web app is built with just HTML, CSS, and JavaScript, so it works right in 
 ## Why I Built This
 
 This app is meant to be a companion for students like me (or anyone who wants to stay productive). It’s straightforward, works offline, and doesn’t overcomplicate things.
+
+- AI Used - fixed a bug in the animations for the tab bar! 
